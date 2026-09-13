@@ -53,7 +53,7 @@ export const allShopItems: ShopItem[] = [
 
   // ===== 30 HOURS =====
   { name: "Flipper Zero", price: 28, img: "/prizes/flipper_zero_img.webp", description: "hardware security hacking tool" },
-  { name: "Bambu A1 Mini", price: 30, img: "/prizes/bambu_a1.jpg", description: "fast and reliable 3d printing" },
+  { name: "Bambu A1 Mini", price: 29, img: "/prizes/bambu_a1.jpg", description: "fast and reliable 3d printing" },
 
   // ===== 33 HOURS =====
   { name: "Rode PodMic", price: 20, img: "/prizes/rode_podmic.jpg", description: "professional quality podcast microphone" },
